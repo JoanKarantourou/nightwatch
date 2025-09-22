@@ -5,7 +5,7 @@ Cloud-native real-time incident feed & anomaly radar.
 Showcase end-to-end skills (event-driven .NET, Kafka, OpenTelemetry, Next.js, K8s, Helm, Terraform) with a <5-minute demo and production-like architecture.
 
 ## Status
-Work in progress — Week 1 (repo structure, CI, dev stack).
+🚧 Work in progress — Week 1 (repo structure, CI, dev stack).
 
 ## MVP checklist
 - [ ] `docker-compose.dev up` brings the stack up
