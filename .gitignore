@@ -416,3 +416,25 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+# --- NightWatch extras (Node, Python, general) ---
+
+# Node (some are already covered, these are safe to add)
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-store/
+
+# Python
+.venv/
+env/
+.venv*/
+env*/
+.pytest_cache/
+*.py[cod]
+*.pkl
+
+# General OS/dev clutter
+.DS_Store
+Thumbs.db
+.secrets/
